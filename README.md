@@ -14,7 +14,7 @@ Les données proviennent de fichiers locaux, d'une base de données MySQL, d'une
    - Excel : `DataProjet.xlsx` avec certaines colonnes sélectionnées
 
 2. **Base de données MySQL**  
-   - Connexion à la base `school_db` pour récupérer les étudiants ayant une colonne spécifique (`COL 5`) supérieure à 50.
+   - Connexion à la base `school_db` pour récupérer les étudiants ayant une colonne spécifique (`G3`) supérieure à 15.
 
 3. **Web Scraping**  
    - Site : [Books to Scrape](https://books.toscrape.com/)  
