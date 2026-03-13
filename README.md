@@ -9,7 +9,7 @@ Les données proviennent de fichiers locaux, d'une base de données MySQL, d'une
 ## Sources de données utilisées
 
 1. **Fichiers locaux**  
-   - CSV : `student_performance.csv` contenant les informations des étudiants (id, notes, participation, etc.)  
+   - CSV : `student-mat.csv` contenant les informations des étudiants (id, notes, participation, etc.)  
    - JSON : `movies.json` contenant des informations sur des films  
    - Excel : `DataProjet.xlsx` avec certaines colonnes sélectionnées
 
